@@ -1,0 +1,19 @@
+<html>
+<title>Novina</title>
+<body>
+<h1>Hello, Code School!</h1>
+
+<ul>
+  <li>Learning 1</li>
+  <li>Learning 2</li>
+  <li>Learning 3</li>
+</ul>
+  
+<ul>
+  <li>Skills 1</li>
+  <li>Skills 2</li>
+  <li>Skills 3</li>
+</ul>
+
+</body>
+</html>
